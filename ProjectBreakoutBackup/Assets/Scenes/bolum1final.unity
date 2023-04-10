@@ -68701,7 +68701,7 @@ GameObject:
   - component: {fileID: 1595159872}
   - component: {fileID: 1595159871}
   m_Layer: 0
-  m_Name: floppy1 (1)
+  m_Name: floppy3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -68719,7 +68719,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2de4a429f0a99a44834334e8890832e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  floppyId: 1
+  floppyId: 3
 --- !u!95 &1595159872
 Animator:
   serializedVersion: 5
