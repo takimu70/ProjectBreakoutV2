@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce8bf9cbf1b88b145931c301afdf7d98, type: 3}
   m_Name: CenterInit
   m_EditorClassIdentifier: 
-  codeBlock: rotate = 0;
+  codeBlock: public float bridgeRotationAngle = 0f;
   gameEvents:
   - {fileID: 11400000, guid: 6a10e1ab84f63964dbc050c9066d733c, type: 2}

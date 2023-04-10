@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce8bf9cbf1b88b145931c301afdf7d98, type: 3}
   m_Name: LeftEndInit
   m_EditorClassIdentifier: 
-  codeBlock: door = closed;
+  codeBlock: private bool isAdminDoorOpen = false;
   gameEvents: []

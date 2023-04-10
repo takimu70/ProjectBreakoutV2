@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce8bf9cbf1b88b145931c301afdf7d98, type: 3}
   m_Name: Room1Init
   m_EditorClassIdentifier: 
-  codeBlock: door = closed
+  codeBlock: private bool isMainDoorOpen = false;
   gameEvents:
   - {fileID: 11400000, guid: 1981d6d2c3b29f6458505af97a1126df, type: 2}
